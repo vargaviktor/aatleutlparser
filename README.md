@@ -1,2 +1,2 @@
-# aatleutlparser
-Donwload and perse Adobe AATL/EUTL XML
+# AATL/EUTL parser
+Downloads and parses the Adobe AATL/EUTL XMLs.
